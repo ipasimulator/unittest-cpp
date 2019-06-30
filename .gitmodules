@@ -1,4 +1,4 @@
 [submodule "docs"]
 	path = docs
-	url = https://jjones.visualstudio.com/DefaultCollection/IPASimulator/_git/unittest-cpp.wiki
+	url = https://github.com/ipasimulator/unittest-cpp.wiki
     branch = port
